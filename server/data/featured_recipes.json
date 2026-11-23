@@ -1,0 +1,1100 @@
+[
+  {
+    "name": "Methi Thepla",
+    "zone": "West Indian",
+    "region": "Gujarat",
+    "category": "Breakfast",
+    "meal": "Breakfast",
+    "dietType": "Vegetarian",
+    "calories": 346,
+    "protein": 9,
+    "carbs": 41,
+    "fat": 16,
+    "timeMinutes": 40,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Whole wheat flour",
+        "qty": "1 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Fenugreek leaves",
+        "qty": "1 bunch",
+        "cat": "Produce"
+      },
+      {
+        "name": "Curd",
+        "qty": "3 tbsp",
+        "cat": "Dairy"
+      },
+      {
+        "name": "Gram flour",
+        "qty": "2 tbsp",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Turmeric",
+        "qty": "1/2 tsp",
+        "cat": "Spices"
+      },
+      {
+        "name": "Sesame seeds",
+        "qty": "1 tsp",
+        "cat": "Pantry"
+      },
+      {
+        "name": "Oil",
+        "qty": "2 tbsp",
+        "cat": "Pantry"
+      }
+    ],
+    "steps": [
+      "Mix flours, chopped methi, curd, turmeric, chilli and salt.",
+      "Knead a soft dough with a little oil; rest 15 minutes.",
+      "Roll thin rounds and roast on a hot tawa with a drizzle of oil until spotted."
+    ],
+    "img": "https://images.unsplash.com/photo-1542367592-8849eb950fd8?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Kanda Poha",
+    "zone": "West Indian",
+    "region": "Maharashtra",
+    "category": "Breakfast",
+    "meal": "Breakfast",
+    "dietType": "Vegan",
+    "calories": 250,
+    "protein": 6,
+    "carbs": 42,
+    "fat": 7,
+    "timeMinutes": 20,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Flattened rice (poha)",
+        "qty": "1.5 cups",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Onion",
+        "qty": "1 large",
+        "cat": "Produce"
+      },
+      {
+        "name": "Peanuts",
+        "qty": "2 tbsp",
+        "cat": "Pantry"
+      },
+      {
+        "name": "Curry leaves",
+        "qty": "8",
+        "cat": "Produce"
+      },
+      {
+        "name": "Turmeric",
+        "qty": "1/2 tsp",
+        "cat": "Spices"
+      },
+      {
+        "name": "Lemon",
+        "qty": "1/2",
+        "cat": "Produce"
+      },
+      {
+        "name": "Mustard seeds",
+        "qty": "1 tsp",
+        "cat": "Spices"
+      }
+    ],
+    "steps": [
+      "Rinse poha and rest 5 minutes until soft.",
+      "Temper mustard, peanuts, curry leaves, green chilli; sauté onion.",
+      "Fold in poha with turmeric and salt, steam 2 minutes, finish with lemon."
+    ],
+    "img": "https://images.unsplash.com/photo-1789991184412-c29c9dfa2b39?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Idli with Sambar",
+    "zone": "South Indian",
+    "region": "Tamil Nadu",
+    "category": "Breakfast",
+    "meal": "Breakfast",
+    "dietType": "Vegan",
+    "calories": 220,
+    "protein": 8,
+    "carbs": 42,
+    "fat": 2,
+    "timeMinutes": 35,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Idli batter",
+        "qty": "1.5 cups",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Toor dal",
+        "qty": "1/2 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Drumstick",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": "2",
+        "cat": "Produce"
+      },
+      {
+        "name": "Sambar powder",
+        "qty": "2 tsp",
+        "cat": "Spices"
+      },
+      {
+        "name": "Tamarind",
+        "qty": "small ball",
+        "cat": "Pantry"
+      }
+    ],
+    "steps": [
+      "Steam batter in idli moulds for 12 minutes.",
+      "Pressure cook dal; simmer with vegetables, tamarind and sambar powder.",
+      "Temper with mustard and curry leaves; serve hot."
+    ],
+    "img": "https://images.unsplash.com/photo-1632104667384-06f58cb7ad44?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Moong Dal Chilla",
+    "zone": "West Indian",
+    "region": "Rajasthan",
+    "category": "Breakfast",
+    "meal": "Breakfast",
+    "dietType": "Vegan",
+    "calories": 210,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 5,
+    "timeMinutes": 20,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Moong dal (soaked)",
+        "qty": "1 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Spinach",
+        "qty": "1 handful",
+        "cat": "Produce"
+      },
+      {
+        "name": "Ginger",
+        "qty": "1 inch",
+        "cat": "Produce"
+      },
+      {
+        "name": "Green chilli",
+        "qty": "2",
+        "cat": "Produce"
+      },
+      {
+        "name": "Cumin",
+        "qty": "1/2 tsp",
+        "cat": "Spices"
+      }
+    ],
+    "steps": [
+      "Grind soaked dal with ginger and chilli to a pourable batter.",
+      "Stir in spinach and cumin.",
+      "Spread thin on a hot pan; cook both sides until crisp."
+    ],
+    "img": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Egg Bhurji",
+    "zone": "Street Food",
+    "region": "Mumbai",
+    "category": "Breakfast",
+    "meal": "Breakfast",
+    "dietType": "Eggetarian",
+    "calories": 260,
+    "protein": 16,
+    "carbs": 6,
+    "fat": 18,
+    "timeMinutes": 15,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Eggs",
+        "qty": "3",
+        "cat": "Protein"
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Green chilli",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Turmeric",
+        "qty": "1/4 tsp",
+        "cat": "Spices"
+      },
+      {
+        "name": "Coriander",
+        "qty": "1 handful",
+        "cat": "Produce"
+      },
+      {
+        "name": "Oil",
+        "qty": "1 tbsp",
+        "cat": "Pantry"
+      }
+    ],
+    "steps": [
+      "Sauté onion, chilli and tomato with turmeric.",
+      "Pour in beaten eggs and scramble on medium heat.",
+      "Finish with coriander; serve with toasted pav or roti."
+    ],
+    "img": "https://images.unsplash.com/photo-1631880383152-f29099b0fd16?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Rajma Chawal",
+    "zone": "North Indian",
+    "region": "Punjab",
+    "category": "Main",
+    "meal": "Lunch",
+    "dietType": "Vegan",
+    "calories": 480,
+    "protein": 16,
+    "carbs": 78,
+    "fat": 9,
+    "timeMinutes": 50,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Kidney beans (rajma)",
+        "qty": "1 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Basmati rice",
+        "qty": "3/4 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Onion",
+        "qty": "2",
+        "cat": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": "3",
+        "cat": "Produce"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "1 tbsp",
+        "cat": "Pantry"
+      },
+      {
+        "name": "Garam masala",
+        "qty": "1 tsp",
+        "cat": "Spices"
+      }
+    ],
+    "steps": [
+      "Pressure cook soaked rajma until soft.",
+      "Cook onion-tomato masala with ginger-garlic and garam masala.",
+      "Simmer rajma in the masala 15 minutes; serve over rice."
+    ],
+    "img": "https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Palak Paneer with Roti",
+    "zone": "North Indian",
+    "region": "North India",
+    "category": "Main",
+    "meal": "Lunch",
+    "dietType": "Vegetarian",
+    "calories": 455,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 28,
+    "timeMinutes": 35,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Spinach",
+        "qty": "2 bunches",
+        "cat": "Produce"
+      },
+      {
+        "name": "Paneer",
+        "qty": "200 g",
+        "cat": "Dairy"
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": "2",
+        "cat": "Produce"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "1 tsp",
+        "cat": "Pantry"
+      },
+      {
+        "name": "Whole wheat flour",
+        "qty": "1/2 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Cream",
+        "qty": "2 tbsp",
+        "cat": "Dairy"
+      }
+    ],
+    "steps": [
+      "Blanch spinach and blend smooth.",
+      "Cook onion, tomato and spices; add puree and simmer.",
+      "Add paneer cubes and cream; serve with fresh rotis."
+    ],
+    "img": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Chana Masala Bowl",
+    "zone": "North Indian",
+    "region": "Punjab",
+    "category": "Main",
+    "meal": "Lunch",
+    "dietType": "Vegan",
+    "calories": 410,
+    "protein": 17,
+    "carbs": 62,
+    "fat": 10,
+    "timeMinutes": 40,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Chickpeas",
+        "qty": "1 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": "2",
+        "cat": "Produce"
+      },
+      {
+        "name": "Chana masala powder",
+        "qty": "2 tsp",
+        "cat": "Spices"
+      },
+      {
+        "name": "Whole wheat flour",
+        "qty": "1/2 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Ginger",
+        "qty": "1 inch",
+        "cat": "Produce"
+      }
+    ],
+    "steps": [
+      "Pressure cook soaked chickpeas.",
+      "Fry onion, ginger, tomato and chana masala.",
+      "Simmer chickpeas in masala; serve with roti."
+    ],
+    "img": "https://images.unsplash.com/photo-1589778655375-3e622a9fc91c?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Chicken Tikka Bowl",
+    "zone": "North Indian",
+    "region": "Punjab",
+    "category": "Main",
+    "meal": "Lunch",
+    "dietType": "Non-Veg",
+    "calories": 430,
+    "protein": 38,
+    "carbs": 28,
+    "fat": 18,
+    "timeMinutes": 40,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Chicken breast",
+        "qty": "300 g",
+        "cat": "Protein"
+      },
+      {
+        "name": "Curd",
+        "qty": "1/2 cup",
+        "cat": "Dairy"
+      },
+      {
+        "name": "Tikka masala",
+        "qty": "2 tbsp",
+        "cat": "Spices"
+      },
+      {
+        "name": "Brown rice",
+        "qty": "3/4 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Cucumber",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "cat": "Produce"
+      }
+    ],
+    "steps": [
+      "Marinate chicken in curd, tikka masala and lemon for 20 minutes.",
+      "Grill or air-fry until charred and cooked through.",
+      "Serve over rice with cucumber and mint chutney."
+    ],
+    "img": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Vegetable Khichdi",
+    "zone": "East Indian",
+    "region": "Pan-India",
+    "category": "Main",
+    "meal": "Dinner",
+    "dietType": "Vegan",
+    "calories": 340,
+    "protein": 12,
+    "carbs": 58,
+    "fat": 6,
+    "timeMinutes": 30,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Rice",
+        "qty": "1/2 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Moong dal",
+        "qty": "1/2 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Carrot",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Peas",
+        "qty": "1/2 cup",
+        "cat": "Produce"
+      },
+      {
+        "name": "Cumin",
+        "qty": "1 tsp",
+        "cat": "Spices"
+      },
+      {
+        "name": "Turmeric",
+        "qty": "1/2 tsp",
+        "cat": "Spices"
+      }
+    ],
+    "steps": [
+      "Rinse rice and dal together.",
+      "Pressure cook with vegetables, turmeric and salt.",
+      "Temper with cumin and ghee-free oil; serve with pickle."
+    ],
+    "img": "https://images.unsplash.com/photo-1755090154817-58d9d36ec988?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Bisi Bele Bath",
+    "zone": "South Indian",
+    "region": "Karnataka",
+    "category": "Main",
+    "meal": "Dinner",
+    "dietType": "Vegan",
+    "calories": 390,
+    "protein": 13,
+    "carbs": 64,
+    "fat": 9,
+    "timeMinutes": 45,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Rice",
+        "qty": "3/4 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Toor dal",
+        "qty": "1/2 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Mixed vegetables",
+        "qty": "1.5 cups",
+        "cat": "Produce"
+      },
+      {
+        "name": "Bisi bele bath masala",
+        "qty": "2 tbsp",
+        "cat": "Spices"
+      },
+      {
+        "name": "Tamarind",
+        "qty": "small ball",
+        "cat": "Pantry"
+      }
+    ],
+    "steps": [
+      "Cook rice and dal until very soft.",
+      "Simmer vegetables with tamarind and masala.",
+      "Combine, loosen with hot water and temper with mustard."
+    ],
+    "img": "https://images.unsplash.com/photo-1697155406121-85aac6236000?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Goan Fish Curry",
+    "zone": "West Indian",
+    "region": "Goa",
+    "category": "Main",
+    "meal": "Dinner",
+    "dietType": "Non-Veg",
+    "calories": 520,
+    "protein": 34,
+    "carbs": 55,
+    "fat": 18,
+    "timeMinutes": 45,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Fish fillets",
+        "qty": "300 g",
+        "cat": "Protein"
+      },
+      {
+        "name": "Coconut",
+        "qty": "1/2 cup grated",
+        "cat": "Produce"
+      },
+      {
+        "name": "Kashmiri chilli",
+        "qty": "4",
+        "cat": "Spices"
+      },
+      {
+        "name": "Tamarind",
+        "qty": "small ball",
+        "cat": "Pantry"
+      },
+      {
+        "name": "Rice",
+        "qty": "3/4 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "cat": "Produce"
+      }
+    ],
+    "steps": [
+      "Grind coconut, chillies, onion and tamarind to a paste.",
+      "Simmer the paste with water and salt.",
+      "Slide in fish and cook 8 minutes; serve with rice."
+    ],
+    "img": "https://images.unsplash.com/photo-1620894580123-466ad3a0ca06?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Kerala Egg Roast",
+    "zone": "South Indian",
+    "region": "Kerala",
+    "category": "Main",
+    "meal": "Dinner",
+    "dietType": "Eggetarian",
+    "calories": 330,
+    "protein": 18,
+    "carbs": 14,
+    "fat": 22,
+    "timeMinutes": 30,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Boiled eggs",
+        "qty": "4",
+        "cat": "Protein"
+      },
+      {
+        "name": "Onion",
+        "qty": "3",
+        "cat": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": "2",
+        "cat": "Produce"
+      },
+      {
+        "name": "Coconut oil",
+        "qty": "1 tbsp",
+        "cat": "Pantry"
+      },
+      {
+        "name": "Curry leaves",
+        "qty": "10",
+        "cat": "Produce"
+      },
+      {
+        "name": "Kashmiri chilli",
+        "qty": "1 tbsp",
+        "cat": "Spices"
+      }
+    ],
+    "steps": [
+      "Slowly brown onions with curry leaves in coconut oil.",
+      "Add tomato and spices; cook to a thick masala.",
+      "Toss in halved eggs and coat well."
+    ],
+    "img": "https://images.unsplash.com/photo-1680993032090-1ef7ea9b51e5?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Khaman Dhokla",
+    "zone": "West Indian",
+    "region": "Gujarat",
+    "category": "Snack",
+    "meal": "Snack",
+    "dietType": "Vegetarian",
+    "calories": 160,
+    "protein": 7,
+    "carbs": 24,
+    "fat": 4,
+    "timeMinutes": 30,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Gram flour",
+        "qty": "1 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Curd",
+        "qty": "1/4 cup",
+        "cat": "Dairy"
+      },
+      {
+        "name": "Eno / fruit salt",
+        "qty": "1 tsp",
+        "cat": "Pantry"
+      },
+      {
+        "name": "Mustard seeds",
+        "qty": "1 tsp",
+        "cat": "Spices"
+      },
+      {
+        "name": "Green chilli",
+        "qty": "2",
+        "cat": "Produce"
+      }
+    ],
+    "steps": [
+      "Whisk flour, curd and water into a smooth batter.",
+      "Fold in fruit salt and steam 15 minutes.",
+      "Pour over a mustard-chilli tempering."
+    ],
+    "img": "https://images.unsplash.com/photo-1588644525273-f37b60d78512?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Sprouts Chaat",
+    "zone": "Street Food",
+    "region": "Pan-India",
+    "category": "Snack",
+    "meal": "Snack",
+    "dietType": "Vegan",
+    "calories": 140,
+    "protein": 9,
+    "carbs": 22,
+    "fat": 2,
+    "timeMinutes": 10,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Moong sprouts",
+        "qty": "1 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Onion",
+        "qty": "1/2",
+        "cat": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Lemon",
+        "qty": "1/2",
+        "cat": "Produce"
+      },
+      {
+        "name": "Chaat masala",
+        "qty": "1 tsp",
+        "cat": "Spices"
+      },
+      {
+        "name": "Coriander",
+        "qty": "1 handful",
+        "cat": "Produce"
+      }
+    ],
+    "steps": [
+      "Steam sprouts for 5 minutes.",
+      "Toss with chopped onion, tomato and coriander.",
+      "Finish with lemon and chaat masala."
+    ],
+    "img": "https://images.unsplash.com/photo-1758721217610-a5d729a319e9?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Gajar Halwa (light)",
+    "zone": "Desserts",
+    "region": "Punjab",
+    "category": "Dessert",
+    "meal": "Snack",
+    "dietType": "Vegetarian",
+    "calories": 280,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 12,
+    "timeMinutes": 40,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Carrot",
+        "qty": "4 large",
+        "cat": "Produce"
+      },
+      {
+        "name": "Milk",
+        "qty": "2 cups",
+        "cat": "Dairy"
+      },
+      {
+        "name": "Jaggery",
+        "qty": "3 tbsp",
+        "cat": "Pantry"
+      },
+      {
+        "name": "Cardamom",
+        "qty": "3 pods",
+        "cat": "Spices"
+      },
+      {
+        "name": "Almonds",
+        "qty": "1 tbsp",
+        "cat": "Pantry"
+      }
+    ],
+    "steps": [
+      "Grate carrots and cook in milk until it reduces.",
+      "Stir in jaggery and cardamom.",
+      "Garnish with almonds and serve warm."
+    ],
+    "img": "https://images.unsplash.com/photo-1610432589024-5f02f76549cf?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Saffron Shrikhand",
+    "zone": "Desserts",
+    "region": "Maharashtra",
+    "category": "Dessert",
+    "meal": "Snack",
+    "dietType": "Vegetarian",
+    "calories": 190,
+    "protein": 8,
+    "carbs": 28,
+    "fat": 5,
+    "timeMinutes": 10,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Hung curd",
+        "qty": "1 cup",
+        "cat": "Dairy"
+      },
+      {
+        "name": "Jaggery",
+        "qty": "2 tbsp",
+        "cat": "Pantry"
+      },
+      {
+        "name": "Saffron",
+        "qty": "a pinch",
+        "cat": "Spices"
+      },
+      {
+        "name": "Cardamom",
+        "qty": "2 pods",
+        "cat": "Spices"
+      }
+    ],
+    "steps": [
+      "Whisk hung curd with jaggery until smooth.",
+      "Fold in saffron milk and cardamom.",
+      "Chill for 30 minutes."
+    ],
+    "img": "https://images.unsplash.com/photo-1591353692625-9b49f8fac18d?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Pav Bhaji",
+    "zone": "Street Food",
+    "region": "Mumbai",
+    "category": "Main",
+    "meal": "Dinner",
+    "dietType": "Vegetarian",
+    "calories": 420,
+    "protein": 10,
+    "carbs": 62,
+    "fat": 14,
+    "timeMinutes": 40,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "qty": "2",
+        "cat": "Produce"
+      },
+      {
+        "name": "Cauliflower",
+        "qty": "1 cup",
+        "cat": "Produce"
+      },
+      {
+        "name": "Peas",
+        "qty": "1/2 cup",
+        "cat": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": "3",
+        "cat": "Produce"
+      },
+      {
+        "name": "Pav bhaji masala",
+        "qty": "2 tsp",
+        "cat": "Spices"
+      },
+      {
+        "name": "Butter",
+        "qty": "1 tbsp",
+        "cat": "Dairy"
+      },
+      {
+        "name": "Pav",
+        "qty": "4",
+        "cat": "Grains & Pulses"
+      }
+    ],
+    "steps": [
+      "Boil and mash the vegetables.",
+      "Cook tomatoes with masala and butter, add the mash.",
+      "Serve with toasted pav."
+    ],
+    "img": "https://images.unsplash.com/photo-1753357303396-704b5abe8945?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Macher Jhol",
+    "zone": "East Indian",
+    "region": "Bengal",
+    "category": "Main",
+    "meal": "Dinner",
+    "dietType": "Non-Veg",
+    "calories": 380,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 16,
+    "timeMinutes": 35,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Fish fillets",
+        "qty": "300 g",
+        "cat": "Protein"
+      },
+      {
+        "name": "Potato",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Turmeric",
+        "qty": "1/2 tsp",
+        "cat": "Spices"
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "1 tbsp",
+        "cat": "Pantry"
+      }
+    ],
+    "steps": [
+      "Marinate fish with turmeric and salt; lightly fry.",
+      "Simmer potato and tomato in a thin gravy.",
+      "Add fish and cook 5 minutes."
+    ],
+    "img": "https://images.unsplash.com/photo-1727404679933-99daa2a7573a?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Chickpea Quinoa Bowl",
+    "zone": "Continental",
+    "region": "Fusion",
+    "category": "Main",
+    "meal": "Lunch",
+    "dietType": "Vegan",
+    "calories": 380,
+    "protein": 14,
+    "carbs": 52,
+    "fat": 12,
+    "timeMinutes": 25,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Quinoa",
+        "qty": "3/4 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Chickpeas",
+        "qty": "1/2 cup",
+        "cat": "Grains & Pulses"
+      },
+      {
+        "name": "Cucumber",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Lemon",
+        "qty": "1/2",
+        "cat": "Produce"
+      },
+      {
+        "name": "Olive oil",
+        "qty": "1 tbsp",
+        "cat": "Pantry"
+      }
+    ],
+    "steps": [
+      "Cook quinoa until fluffy.",
+      "Toss with chickpeas and chopped vegetables.",
+      "Dress with lemon and olive oil."
+    ],
+    "img": "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  },
+  {
+    "name": "Herbed Chicken Salad",
+    "zone": "Continental",
+    "region": "Fusion",
+    "category": "Main",
+    "meal": "Lunch",
+    "dietType": "Non-Veg",
+    "calories": 340,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 16,
+    "timeMinutes": 20,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "Chicken breast",
+        "qty": "250 g",
+        "cat": "Protein"
+      },
+      {
+        "name": "Lettuce",
+        "qty": "1 head",
+        "cat": "Produce"
+      },
+      {
+        "name": "Cucumber",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "cat": "Produce"
+      },
+      {
+        "name": "Olive oil",
+        "qty": "1 tbsp",
+        "cat": "Pantry"
+      }
+    ],
+    "steps": [
+      "Pan-grill seasoned chicken and slice.",
+      "Toss with lettuce and cucumber.",
+      "Finish with lemon and olive oil."
+    ],
+    "img": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=900&q=75",
+    "featured": true
+  }
+]
